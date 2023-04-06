@@ -1,3 +1,3 @@
-class Git
+class GitFlow
 
 end
